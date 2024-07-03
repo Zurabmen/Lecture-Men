@@ -11,9 +11,7 @@
   	font-style: italic;
 }
 .me {
-	.roboto-black-italic {
-  	font-family: "Roboto", sans-serif;
-  	font-weight: 900;
-  	font-style: italic;
-}
+  font-family: "Ga Maamli", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
