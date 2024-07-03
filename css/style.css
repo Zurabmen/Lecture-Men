@@ -10,3 +10,10 @@
   	font-weight: 900;
   	font-style: italic;
 }
+.me {
+	.roboto-black-italic {
+  	font-family: "Roboto", sans-serif;
+  	font-weight: 900;
+  	font-style: italic;
+}
+}
